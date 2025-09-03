@@ -1,13 +1,13 @@
-## 852. Peak Index in a Mountain Array `https://leetcode.com/problems/peak-index-in-a-mountain-array/description/`
+## 852. Peak Index in a Mountain Array  
+# Problem Link: https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
 
-"""""
- - Solution:
-
- class Solution(object):
+class Solution(object):
     def peakIndexInMountainArray(self, arr):
         
+        """
         :type arr: List[int]
         :rtype: int
+        """
         
         
         #initialize first, last = 1, n - 2
@@ -40,4 +40,3 @@
 
         return -1
         
-"""""
