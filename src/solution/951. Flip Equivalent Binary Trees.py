@@ -1,6 +1,8 @@
-## 951. Flip Equivalent Binary Trees 
-# Problem Link: https://leetcode.com/problems/flip-equivalent-binary-trees/description/
-
+"""
+951. Flip Equivalent Binary Trees 
+Company: Google
+Problem Link: https://leetcode.com/problems/flip-equivalent-binary-trees/description/
+"""
 
 # Definition for a binary tree node.
 # class TreeNode(object):
