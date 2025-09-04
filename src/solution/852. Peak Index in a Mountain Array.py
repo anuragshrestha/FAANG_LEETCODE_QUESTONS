@@ -1,5 +1,9 @@
-## 852. Peak Index in a Mountain Array  
-# Problem Link: https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+"""
+852. Peak Index in a Mountain Array  
+Company: Google
+Problem Link: https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+"""
+
 
 class Solution(object):
     def peakIndexInMountainArray(self, arr):
